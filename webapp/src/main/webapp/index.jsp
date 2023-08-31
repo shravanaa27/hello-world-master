@@ -36,10 +36,10 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? shravan <a href="#">Sign in</a>.</p>
+    <p>Already have an account? shravan B <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning , shravan </h1>
+   <h1> Thankyou, Happy Learning , shravan B </h1>
 
   
 </form>
